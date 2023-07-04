@@ -303,7 +303,7 @@
       "source": "taustakartta",
       "source-layer": "rakennus",
       "paint": {
-        "fill-color": "hsl(0, 0, 65%)"
+        "fill-color": "hsl(0, 0%, 65%)"
       }
     },
     {
